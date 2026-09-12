@@ -62,7 +62,3 @@ To capture a computer piece, you need to jump over it.
 When your piece reaches the top row, it becomes a Queen. Queens have a gold center and can move backward.
 The game ends when one player loses all their pieces.
 Press R to restart or click the red STOP button to quit.
-
-```
-
-```
